@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on wevolve
 - 🌱 I’m currently learning Reason and Typescript
-- 📫 How to reach me: [click here](egredo.dev/contato)
+- 📫 How to reach me: [click here](https://segredo.dev/contato/)
 
 <!--
 **iaurg/iaurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
