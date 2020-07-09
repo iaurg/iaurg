@@ -1,7 +1,10 @@
-### Hi there 👋
-- 🔭 I’m currently working on wevolve
+## Hi there 👋
+
+I'm Italo, and my focus is to be a programmer that can code complex systems and beat good challenges.
+
+- 🔭 I’m currently working on [wevolve](https://wevolve.dev)
 - 🌱 I’m currently learning ReasonML and Typescript
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iaurg) - [Twitter](https://www.twitter.com/iaurg)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iaurg) - [Twitter](https://www.twitter.com/iaurg) - [Blog](https://segredo.dev)
 - ⚡ Fun fact: In my first website in 2008 (I had 13 years old) I've tried to put all the internet inside a Blogger. It didn't work out very well...
 
 <!--
