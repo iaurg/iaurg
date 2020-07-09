@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on wevolve
-- 🌱 I’m currently learning Reason and Typescript
-- 📫 How to reach me: [click here](https://segredo.dev/contato/)
+- 🌱 I’m currently learning ReasonML and Typescript
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iaurg) - [Twitter](https://www.twitter.com/iaurg)
+- ⚡ Fun fact: In my first website in 2008 (I had 13 years old) I've tried to put all the internet inside a Blogger. It didn't work out very well...
 
 <!--
 **iaurg/iaurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
