@@ -6,7 +6,7 @@ I'm Italo, and my focus is to be a programmer that can code complex systems and 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iaurg/)](https://www.linkedin.com/in/iaurg/)
 [![Blog](https://img.shields.io/badge/-Blog-222222?style=flat-square&logo=Ghost&logoColor=white&link=https://segredo.dev)](https://segredo.dev/)
 [![GitHub followers](https://img.shields.io/github/followers/iaurg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iaurg?tab=followers)
-[![Code Wars](https://www.codewars.com/users/iaurg/badges/micro)]
+![Code Wars](https://www.codewars.com/users/iaurg/badges/micro)
 
 
 
